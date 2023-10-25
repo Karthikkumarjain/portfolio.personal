@@ -1,0 +1,41 @@
+.gradient-background{
+    background: linear-gradient(to right, #e4e2e1, #a28989,rgb(30, 30, 158));
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.bi{
+    fill:currentColor
+}
+
+h1 {
+    display: inline-block;
+    text-align: center;
+    border: none;
+    padding: 10px 25px;
+    color: #100c0b;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+h2 {
+    color: #034141;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.mb-4{
+color:rgb(6, 1, 19);
+}
