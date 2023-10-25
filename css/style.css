@@ -26,7 +26,7 @@ h1 {
 
 
 h2 {
-    color: #034141;
+    color: #050909;
     font-family: "Sacramento", cursive;
     font-size: 2.5rem;
     font-weight: normal;
@@ -34,7 +34,7 @@ h2 {
 }
 
 h3 {
-    color: #034141;
+    color: #081515;
     font-family: "Sacramento", cursive;
     font-size: 2.5rem;
     font-weight: normal;
@@ -47,4 +47,9 @@ h3 {
 
 .mb-4{
 color:rgb(6, 1, 19);
+}
+
+.d-block {
+    display: block;
+    border-radius: 10 px;
 }
