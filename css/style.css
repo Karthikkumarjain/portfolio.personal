@@ -24,9 +24,18 @@ h1 {
     font-family: "Sacramento", cursive;
 }
 
+
 h2 {
     color: #034141;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Sacramento", cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #034141;
+    font-family: "Sacramento", cursive;
     font-size: 2.5rem;
     font-weight: normal;
     padding-bottom: 10px;
