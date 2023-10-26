@@ -77,3 +77,7 @@ color:rgb(6, 1, 19);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.nav-item{
+    width: 95px;
+}
+
