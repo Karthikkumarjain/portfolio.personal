@@ -2,11 +2,11 @@
     background: linear-gradient(to right, #e4e2e1, #a28989,rgb(42, 42, 175));
     border: none;
     color: white;
-    padding: 10px 25px;
+    padding: 10 px 25 px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 16 px;
 }
 
 .bi{
@@ -79,5 +79,6 @@ color:rgb(6, 1, 19);
 
 .nav-item{
     width: 95px;
+
 }
 
