@@ -25,7 +25,7 @@ h1 {
     display: inline-block;
     text-align: center;
     border: none;
-    padding: 10px 25px;
+    padding: 10 px 25 px;
     color: #100c0b;
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
@@ -38,13 +38,13 @@ h2 {
     font-family: "Sacramento", cursive;
     font-size: 2.5rem;
     font-weight: normal;
-    padding-bottom: 10px;
+    padding-bottom: 10 px;
 }
 
 h3 {
     color: #081515;
     font-family: "Sacramento", cursive;
-    font-size: 2.5rem;
+    font-size: 2.5 rem;
     font-weight: normal;
 }
 
